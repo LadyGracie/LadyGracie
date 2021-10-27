@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Grace Awolaja
 - 👀 I’m interested in Gaining relevant tech skills which will help me careerwise
 - 🌱 I’m currently learning Data Science on IBM 
-- 💞️ I’m looking to collaborate aand learn more about Data Science
+- 💞️ I’m looking to collaborate and learn more about Data Science
 - 📫 How to reach me thisisgraceawolaja@gmail.com
 
 <!---
